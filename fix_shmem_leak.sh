@@ -1,0 +1,1 @@
+python -c "from streaming.base.util import *; clean_stale_shared_memory()"

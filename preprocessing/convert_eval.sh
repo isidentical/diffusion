@@ -1,0 +1,1 @@
+python preprocessing/convert_dataset.py --wds_path="/home/user/data/06000.tar" --out_dir_root="eval_mds"
